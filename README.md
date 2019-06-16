@@ -39,6 +39,6 @@ you can also attach some sort of image or any thing else with the link so that u
 
 
 ## New additions from the original code:
-**1)****Made the page Mobile-Friendly.
+**1)**Made the page Mobile-Friendly.
 
-**2)****Made another page **b.html** to which the page will be redirected after submission. Change the url var in the file b.html inside templates folder to the webpage you want the victim to be redirected.
+**2)**Made another page **b.html** to which the page will be redirected after submission. Change the url var in the file b.html inside templates folder to the webpage you want the victim to be redirected.
