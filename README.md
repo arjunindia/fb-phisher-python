@@ -40,6 +40,7 @@ Open that and the credentials you have type in login page will be store in **db_
  Now this is how you can attack on the same network but you can also do this attack out of Network using [Ngrok]
  (https://ngrok.com/) 
  
+ YOU CAN DEFINITELY USE PORT FORWARDING. PORT FORWARD PORT 80 (HTTP SERVER PORT) AND NOW YOU CAN USE THE PAGE THROUGH WAN.
 
 
 you can also attach some sort of image or any thing else with the link so that user immediately enter the credentials 
