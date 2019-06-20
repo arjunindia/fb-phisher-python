@@ -19,7 +19,7 @@ To install Flask open terminal and type the following command ,
 
 
 
-make sure that before installing flask you have [python 2](https://www.python.org/downloads/) install , if you are using windows or macOs then first download and install [python2](https://www.python.org/downloads/) 
+make sure that before installing flask you have [python 3](https://www.python.org/downloads/) install , if you are using windows or macOs then first download and install [python3](https://www.python.org/downloads/) 
 
 ## usage :
 clone the repository and open the terminal in source folder and run **app.py** 
