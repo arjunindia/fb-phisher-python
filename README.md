@@ -15,7 +15,7 @@ With this script you can perform Facebook login credentials stealing with some s
 2 : Flask
 To install Flask open terminal and type the following command ,
 
-*user@repo~#*  **pip3 install flask**
+ *user@repo~#*  **pip3 install flask**
 
 
 
@@ -24,7 +24,7 @@ make sure that before installing flask you have [python 3](https://www.python.or
 ## usage :
 clone the repository and open the terminal in source folder and run **app.py** 
 
-user@repo~# python3 **app.py**
+ user@repo~# python3 **app.py**
 
 now open your browser and go to 0.0.0.0 or localhost or your lan ip.
 
