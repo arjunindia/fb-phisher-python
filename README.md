@@ -68,4 +68,4 @@ you can also attach some sort of image or any thing else with the link so that u
     
     user@repo:~# facebooker
     
-=>ADDED EXTRA FUNCTIN, i.e. a new function to easily modify the link to be redirected to. install with install.sh
+=>ADDED EXTRA FUNCTIN, i.e. a new function to easily modify the link to be redirected to. install with install.sh, run with facebooker command and it will ask you the new link on run.
