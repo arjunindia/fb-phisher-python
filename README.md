@@ -52,3 +52,14 @@ you can also attach some sort of image or any thing else with the link so that u
 **1)** Made the page Mobile-Friendly.
 
 **2)** Made another page **b.html** to which the page will be redirected after submission. Change the url var in the file b.html inside templates folder to the webpage you want the victim to be redirected.
+
+## New UPDATE!
+
+=>ADDED ./install.sh. now if you install with the script, you can use the command 'facebooker' to launch the tool.
+    you can install the script by:-
+    user@repo:~# cd fb-phisher-python
+    user@repo:fb-phisher-python# chmod +x install,sh
+    user@repo:fb-phisher-python# ./install.sh
+    now you can run by typing 'facebooker'
+    user@repo:~# facebooker
+=>ADDED EXTRA FUNCTIN, i.e. a new function to easily modify the link to be redirected to. install with install.sh
