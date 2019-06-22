@@ -48,7 +48,7 @@ you can also attach some sort of image or any thing else with the link so that u
 
 run this command:- git stash && git pull
 
-# fb-phisher-p
+# fb-phisher-python
 
 
 ## New additions from the original code:
