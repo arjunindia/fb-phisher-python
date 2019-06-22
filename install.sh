@@ -2,8 +2,7 @@
 echo "Installer loading"
 chmod +x relinker.sh
 sleep 2s
-pip3 install flask&>/dev/null
-rm /usr/bin/facebooker&>/dev/null
+pip3 install flask > /dev/null
 echo "#!/bin/bash"> /usr/bin/facebooker
 path=$PWD
 echo "pather='$path'">>/usr/bin/facebooker
